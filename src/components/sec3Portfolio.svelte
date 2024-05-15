@@ -3,6 +3,7 @@
     let ramen = "./images/ramen_site.png";
     let bike = "./images/bike_site.png";
     let airbnb = "./images/airBNBclone.png";
+    let meme = "./images/memeGen.png";
 </script>
 
 <section class="section sec3 portfolio">
@@ -16,14 +17,14 @@
         <PortItem 
             img = {ramen} 
             link = "https://printrat6962.github.io/RestaurantWebite/"
-            linkref = "https://printrat6962.github.io/RestaurantWebite"
+            linkref = "https://github.com/PrintRat6962/RestaurantWebite"
             desc = "Ramen Site"
         />
 
         <PortItem 
             img = {bike} 
             link = "https://printrat6962.github.io/BikeWebsite/"
-            linkref = "https://printrat6962.github.io/BikeWebsite"
+            linkref = "https://github.com/PrintRat6962/BikeWebsite"
             desc = "Bike Shop Site"
         />
     </div>
@@ -34,11 +35,16 @@
         <PortItem 
             img = {airbnb} 
             link = "https://printrat6962.github.io/AirBNBClone/"
-            linkref = "https://printrat6962.github.io/AirBNBClone"
+            linkref = "https://github.com/PrintRat6962/AirBNBClone"
             desc = "AirBNB Clone Site"
         />
 
-
+        <PortItem 
+            img = {meme} 
+            link = "https://printrat6962.github.io/MemeGeneratorReact/"
+            linkref = "https://github.com/PrintRat6962/MemeGeneratorReact"
+            desc = "Meme Generator"
+        />
     </div>
 
     <!-- <h3 class="sec-title">MERN Stack</h3>
