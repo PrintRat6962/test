@@ -43,7 +43,7 @@ export default {
 			'process.env.NODE_ENV': JSON.stringify(production ? 'production' : 'development'),
 			'preventAssignment': true,
 			// Set base path for GitHub Pages
-			'process.env.BASE_PATH': JSON.stringify(production ? '/Portfolio/' : '/')
+			'process.env.BASE_PATH': JSON.stringify(production ? '/test/' : '/')
 		  }),
 		svelte({
 			compilerOptions: {
