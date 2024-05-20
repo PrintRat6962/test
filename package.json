@@ -7,7 +7,7 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear",
-    "deploy": "gh-pages -d public https://github.com/PrintRat6962/test.git"
+    "deploy": "gh-pages -d public -r https://github.com/PrintRat6962/test.git"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.0",
